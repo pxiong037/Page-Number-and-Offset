@@ -1,0 +1,15 @@
+Prechar Xiong 
+ICS 462 Assignment #4 
+
+The address 19986 contains: 
+     Page number = 4
+     Offset = 3602
+
+The address 347892 contains: 
+     Page number = 84
+     Offset = 3828
+
+The address 5978 contains: 
+     Page number = 1
+     Offset = 1882
+
